@@ -1,0 +1,9 @@
+[package]
+name = "stark-v-sha256-guest"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sha2 = { version = "0.10", default-features = false }
+
+[workspace]
