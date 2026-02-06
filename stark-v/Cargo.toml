@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-stark-v-sdk = { git = "https://github.com/AntoineFONDEUR/stark-v", rev = "ece38f32541f1ca560a57ca6703bd692cdb78061" }
+stark-v-sdk = { git = "https://github.com/AntoineFONDEUR/stark-v", rev = "f7cb8bc045118654afbe77f85c0b7e6c73ab2f9b" }
 
 # Workspace
 criterion = { workspace = true }
